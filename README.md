@@ -31,7 +31,7 @@ Add your application screenshots here
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/video-captioner.git
+git clone https://github.com/navww/video-captioner.git
 cd video-captioner
 ```
 
