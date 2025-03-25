@@ -1,0 +1,12 @@
+.app {
+  min-height: 100vh;
+  background-color: #f0f2f5;
+  padding: clamp(10px, 3vw, 20px);
+}
+
+/* Dark mode support for app background */
+@media (prefers-color-scheme: dark) {
+  .app {
+    background-color: #1a1a1a;
+  }
+} 
