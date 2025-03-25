@@ -14,7 +14,7 @@ A responsive React application that allows users to add and display captions on 
 
 ## 🚀 Live Demo
 
-[View Live Demo](your-deployed-url-here)
+[View Live Demo](https://video-captioner-six.vercel.app/)
 
 ## 💻 Tech Stack
 
